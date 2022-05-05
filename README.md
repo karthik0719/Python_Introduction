@@ -22,7 +22,7 @@ C language is considered as mother of all the programming languages.<br>
 Place: AT & T bell labs<br>
 AT & T --> American Telephone & Telegraph Company<br>
 
-Java Lanuage<br>
+Java Language<br>
 -------------------------------------------------------------------
 Java Lanuage was developed by James Goshling<br>
 In the year: 1995<br>
